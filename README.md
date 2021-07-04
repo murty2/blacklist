@@ -10,7 +10,7 @@ blacklist-apply.sh https://lunar.murty.net/ipset.txt
 
 ### Detailed Instructions
 
-*blacklist-gen.sh*
+**blacklist-gen.sh**
 
 Change the following line to suit your website's docroot
 
@@ -18,6 +18,6 @@ RESTORE=/path/to/your-docroot/ipset.txt
 
 Then run the script. It will generate the ipset blacklist file
 
-*blacklist-apply.sh*
+**blacklist-apply.sh**
 
 Run on your webservers & mail servers: /root/blacklist-apply.sh https://your-website.com/ipset.txt
