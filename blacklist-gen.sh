@@ -178,4 +178,4 @@ done < $HOSTSFILE >> $RESTORE
 
 echo swap $IPSETNAME $IPSETNAME.tmp >> $RESTORE
 echo destroy $IPSETNAME.tmp >> $RESTORE
-gzip $RESTORE
+gzip -f $RESTORE
