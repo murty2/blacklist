@@ -98,6 +98,9 @@ cat << XYZ > $HOSTS
 # Russian Girl Romance Scams
 178.126.160.0/19
 
+# jobdivabk.com fake job ads to collect personal info
+65.254.18.118
+
 # Hacks targeting Wordpress plugin: The Plus Addons for Elementor Pro
 208.110.85.68
 173.208.246.46
