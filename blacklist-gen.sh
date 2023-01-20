@@ -61,6 +61,7 @@ LIST=(
 'https://lists.blocklist.de/lists/all.txt' # blocklist.de attackers
 'https://blocklist.greensnow.co/greensnow.txt' # GreenSnow
 'https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset' # Firehol Level 1
+'https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset' # Firehol Level 2
 'https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_7d.ipset' # Firehol forum
 # 'http://ipverse.net/ipblocks/data/countries/xx.zone' # Ban an entire country, see http://ipverse.net/ipblocks/data/countries/
 )
