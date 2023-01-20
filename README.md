@@ -6,7 +6,7 @@
 
 If you are impatient or just want to apply my IPv4 blacklist on your webservers or mail servers, then just run:
 
-blacklist-apply.sh https://lunar.murty.net/ipset.txt
+blacklist-apply.sh https://www.murty.net/ipset.txt
 
 ### Detailed Instructions
 
